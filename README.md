@@ -4,7 +4,7 @@
 
 ### 💻 Software Developer | 🌐 Web Developer | ⚙️ Computer Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E21D2E&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Developer;Web+Developer;Computer+Engineering+Graduate;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E21D2E&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Developer;Web+Developer;Computer+Engineer;Always+Learning+%F0%9F%9A%80" />
 
 </div>
 
@@ -12,19 +12,45 @@
 
 ## 👨‍💻 About Me
 
-I'm **Marden C. Barangan**, a Computer Engineering graduate interested in software development, web development, embedded systems, artificial intelligence, and computer vision.
+I'm **Marden C. Barangan**, a Computer Engineering graduate interested in:
 
-I enjoy building practical projects that combine software and hardware.
+- 💻 Software Development
+- 🌐 Web Development
+- ⚙️ Computer Engineering
+- 🤖 Artificial Intelligence
+- 👁️ Computer Vision
+- 🔌 Embedded Systems
+- 🗄️ Database Development
+
+I enjoy building practical projects that combine **software and hardware**.
 
 ---
 
 ## 🛠️ Technologies
 
-<p align="center">
+### 💻 Programming & Web
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,nodejs,express,java,cpp,arduino,raspberrypi,postgres,mysql,git,github,vscode,vercel" />
+`HTML` `CSS` `JavaScript` `React` `Vite`
 
-</p>
+### ⚙️ Backend
+
+`Python` `Node.js` `Express.js`
+
+### 🗄️ Database
+
+`PostgreSQL` `MySQL`
+
+### 🔌 Embedded Systems
+
+`Arduino` `ESP32` `Raspberry Pi`
+
+### 🤖 AI & Computer Vision
+
+`Python` `OpenCV` `MediaPipe`
+
+### 🧰 Tools
+
+`Git` `GitHub` `VS Code` `Vercel`
 
 ---
 
@@ -32,77 +58,53 @@ I enjoy building practical projects that combine software and hardware.
 
 ### 🌐 MARDEN.DEV
 
-Personal portfolio showcasing my skills, projects, and experience.
+My personal developer portfolio showcasing my projects, skills, experience, and interests.
 
 ### 🪞 Smart Mirror
 
-Raspberry Pi-based smart mirror system for announcements, events, weather, and other information.
+A Raspberry Pi-based smart mirror system designed to display announcements, events, weather information, and other useful information.
 
 ### 🔐 RFID Locker
 
-Arduino RFID security system using RFID reader, LCD, relay, buzzer, and solenoid lock.
+An Arduino-based RFID security locker using:
+
+- RFID Reader
+- LCD Display
+- Relay
+- Buzzer
+- Solenoid Lock
 
 ### ⚡ Wind & Solar Charging Station
 
-Renewable-energy charging station concept combining solar and wind power with an anti-theft system.
+A renewable-energy charging station concept combining:
+
+- ☀️ Solar Power
+- 🌬️ Wind Power
+- 🔋 Battery Storage
+- 🔌 Charging System
+- 🔐 Anti-Theft System
 
 ### 🤖 AI & Computer Vision
 
-Python-based experiments involving OpenCV, MediaPipe, object detection, and AI.
+Python projects involving:
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=marden288&show_icons=true&hide_border=true&theme=dark" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marden288&layout=compact&hide_border=true&theme=dark" />
-
-</div>
-
----
-
-## 🐍 My Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/marden288/marden288/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
+- OpenCV
+- MediaPipe
+- Object Detection
+- Computer Vision
+- AI Experiments
 
 ---
 
 ## 🎯 Currently Learning
 
-- 🌐 Advanced Web Development
-- ⚛️ React
-- 🟢 Node.js
-- 🗄️ Database Development
-- 🤖 Artificial Intelligence
-- 👁️ Computer Vision
-- 🔌 Embedded Systems
-- ☁️ Cloud Deployment
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/marden288">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Engineering Ideas. Building Solutions. 🚀
-
-</div>
+```text
+🌐 Advanced Web Development
+⚛️ React
+🟢 Node.js
+🐍 Python
+🗄️ Database Development
+🤖 Artificial Intelligence
+👁️ Computer Vision
+🔌 Embedded Systems
+☁️ Cloud Deployment
