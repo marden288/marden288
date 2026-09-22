@@ -4,7 +4,7 @@
 
 ### 💻 Software Developer | 🌐 Web Developer | ⚙️ Computer Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E21D2E&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Developer;Web+Developer;Computer+Engineering+Graduate;Always+Learning+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E21D2E&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Developer;Web+Developer;Computer+Engineering+Graduate;Always+Learning+🚀" />
 
 </div>
 
@@ -21,7 +21,9 @@ I enjoy building practical projects that combine software and hardware.
 ## 🛠️ Technologies
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,nodejs,express,java,cpp,arduino,raspberrypi,postgres,mysql,git,github,vscode,vercel" />
+
 </p>
 
 ---
@@ -62,16 +64,26 @@ Python-based experiments involving OpenCV, MediaPipe, object detection, and AI.
 
 ---
 
+## 🐍 My Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/marden288/marden288/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
 ## 🎯 Currently Learning
 
-* 🌐 Advanced Web Development
-* ⚛️ React
-* 🟢 Node.js
-* 🗄️ Database Development
-* 🤖 Artificial Intelligence
-* 👁️ Computer Vision
-* 🔌 Embedded Systems
-* ☁️ Cloud Deployment
+- 🌐 Advanced Web Development
+- ⚛️ React
+- 🟢 Node.js
+- 🗄️ Database Development
+- 🤖 Artificial Intelligence
+- 👁️ Computer Vision
+- 🔌 Embedded Systems
+- ☁️ Cloud Deployment
 
 ---
 
@@ -80,7 +92,9 @@ Python-based experiments involving OpenCV, MediaPipe, object detection, and AI.
 <div align="center">
 
 <a href="https://github.com/marden288">
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
 </a>
 
 </div>
